@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 07 20:24:43 EEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-55ac-3dc6-00000f600000 
+on database directory D:\DUsers\JavaProject\BarberShopAppointmentManager\BarberShopDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6ed3ef1 
+Loaded from file:/D:/Downloads/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.2+9-LTS
+user.dir=D:\DUsers\JavaProject\BarberShopAppointmentManager
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
